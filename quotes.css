@@ -1,0 +1,30 @@
+@import "reset.css";
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,700&subset=cyrillic');
+
+.quotes {
+  position: absolute;
+  top: 0;
+}
+
+.imagesHeader {
+  display: flex;
+
+  width: 320px;
+  height: 40px;
+
+  justify-content: flex-start;
+}
+
+
+.imageSize {
+  width: 53px;
+  height: 40px;
+
+  background-image: url(image.png);
+
+}
+
+h1 {
+  position: absolute;
+  top: 20px;
+}
